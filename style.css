@@ -1,0 +1,15 @@
+/* universal selector */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+    
+}
+
+/* Base Styles */
+body {
+    background-color: rgba(26, 11, 46, 1); /* slate-900 */
+    color: #ffffff; /* slate-200 */
+}
+
